@@ -16,7 +16,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "axios": "^0.19.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "ndjson": "^1.5.0",
     "styled-components": "^4.3.1"
   },
